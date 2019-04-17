@@ -16,7 +16,7 @@ Git.
 
 Fingerprinting.
 
-Implementation.
+SHA implementation.
 
 ## Chapter 3: Asymmetric Cryptography
 
@@ -28,28 +28,38 @@ RSA implementation, ECDSA implementation.
 
 DAG's for tracking state. DAGs with hashes for data integrity.
 
+Bitcoin block structure.
+
 ## Chapter 5: Consensus
 
 Byzantine General's problem. Proof of work, proof of stake. 
 
-Bitcoin mining algorithm,
+Hashcash,
 Casper.
 
-## Chapter 6: Transactions, addresses, wallets
+## Chapter 6: User Experience
 
-Transactions chains, quantum safe addresses.
+Transactions, addresses, wallets.
+
+Transaction chains, quantum safe addresses.
+
+Bitcoin transaction format.
 
 BIP32, Hirearchical deterministic wallets. 
 
 ## Chapter 7: Smart Contracts 
 
-Bitcoin script, EVM and Solidity.
+Bitcoin script and static analysis.
 
-Simplicity.
+EVM/Solidity, Turing completeness.
+
+Simplicity and declarative semantics..
 
 ## Chapter 8: Governance
 
-BIPs.
+The five polities of a cryptocurrency: the users, the markets, the miners, the developers, and the exchanges.
+
+Upgrading decentralized networks, flagging and BIPs.
 
 ## Appendix A: Whitepaper
 
@@ -64,7 +74,3 @@ Offchain transactions.
 Segwit. 
 
 Sidechains, lighting network. 
-
-## Appendix C: Upgrading Decentralized Ssytems
-
-Flagging, 
