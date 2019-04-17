@@ -44,7 +44,15 @@ Hashcash,
 
 Casper.
 
-## Chapter 6: User Experience
+## Chapter 6: Smart Contracts 
+
+Bitcoin script and static analysis.
+
+EVM/Solidity, Turing completeness.
+
+Simplicity and declarative semantics.
+
+## Chapter 7: User Experience
 
 Transactions, addresses, wallets.
 
@@ -53,14 +61,6 @@ Transaction chains, quantum safe addresses.
 Bitcoin transaction format.
 
 BIP32, Hirearchical deterministic wallets. 
-
-## Chapter 7: Smart Contracts 
-
-Bitcoin script and static analysis.
-
-EVM/Solidity, Turing completeness.
-
-Simplicity and declarative semantics.
 
 ## Chapter 8: Governance
 
