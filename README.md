@@ -14,7 +14,7 @@ Git.
 
 ## Chapter 2: Hashing
 
-Fingerprinting.
+Fingerprinting, naming data.
 
 SHA implementation.
 
@@ -26,7 +26,13 @@ RSA implementation, ECDSA implementation.
 
 ## Chapter 4: Merkle DAG
 
-DAG's for tracking state. DAGs with hashes for data integrity.
+Graphs.
+
+Directed Graphs for tracking state.
+
+DAG's for tracking state without cycles.
+
+DAGs with hashes for data integrity.
 
 Bitcoin block structure.
 
@@ -35,6 +41,7 @@ Bitcoin block structure.
 Byzantine General's problem. Proof of work, proof of stake. 
 
 Hashcash,
+
 Casper.
 
 ## Chapter 6: User Experience
@@ -53,17 +60,17 @@ Bitcoin script and static analysis.
 
 EVM/Solidity, Turing completeness.
 
-Simplicity and declarative semantics..
+Simplicity and declarative semantics.
 
 ## Chapter 8: Governance
 
-The five polities of a cryptocurrency: the users, the markets, the miners, the developers, and the exchanges.
+The five polities of a cryptocurrency: users, markets, miners, developers, and exchanges.
 
-Upgrading decentralized networks, flagging and BIPs.
+Upgrading decentralized networks, flagging and BIPs. Generally, requires at least 3 of these groups to agree. 
 
 ## Appendix A: Whitepaper
 
-Guided walk through of the Bitcoin white paper.
+Guided walkthrough of the Bitcoin white paper.
 
 ## Appendix B: Scaling
 
