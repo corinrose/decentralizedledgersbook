@@ -1,5 +1,5 @@
 ---
-title: Chapter B
+title: Appendix B
 date: 2019-04-18
 ---
 
