@@ -15,7 +15,7 @@ This book cannot be a complete exposition of this history. In his work [*Shellin
 
 Along with this money evolved a way to keep track of trades of wealth--ledgers. Early ledgers were single-entry, where every transaction is noted once in the ledger. Over time, double-entry accounting evolved as a more effective way to keep track of transactions. A double-entry accounting system has two entries for every transaction--one keeping track of the credit involved with the transaction, and one for the debt. For instance, if you are a merchant and you sell a product, you would add the value of that transaction to your revenue in the double-entry system and at the same time remove that value from your stock. Double-entry ledgers have been found as early as the 11th century, the idea was standardized by mathematician Luca Pacioli in 1494 in his work [*Summa de arithmetica*].
 
-
+error correction
 
 ## Assymetric Cryptography
 
