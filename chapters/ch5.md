@@ -7,13 +7,18 @@ date: 2019-04-18
 
 ## Byzantine General's Problem
 
+[Reaching Agreement in the Presence of Faults](https://www.microsoft.com/en-us/research/publication/reaching-agreement-presence-faults/)
+
 ## Proof of Work
+
+[Hashcash](http://www.hashcash.org/)
 
 ## Proof of Stake
 
-## Hashcash
-
 ## Casper
 
+[Introduction to Casper](https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/)
+
+[Casper Whitepaper](https://github.com/ethereum/research/blob/master/papers/casper-basics/casper_basics.pdf)
 
 <a href="ch6.html">Next chapter...</a>
