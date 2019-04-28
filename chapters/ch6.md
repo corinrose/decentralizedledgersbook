@@ -5,22 +5,24 @@ date: 2019-04-18
 
 # Smart Contracts
 
+A blockchain's smart contract is the language that it understands.
+
 [The Idea of Smart Contracts](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html)
 1997, Nick Szabo.
 
-## Programming Languages
-
-## Turing Completeness
-
-## Static Analysis
+## Transaction Verification
 
 ## Bitcoin Script
 
 [Specification](https://en.bitcoin.it/wiki/Script)
 
+## Static Analysis
+
+## Turing Completeness
+
 ## EVM and Solidity
 
-[Found in Ethereum yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
+[Ethereum yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 [Solidity documentation.](https://solidity.readthedocs.io/en/v0.5.7/)
 
