@@ -11,6 +11,8 @@ date: 2019-04-18
 
 ## Offchain Transactions
 
+[Opendime](https://opendime.com/)
+
 ## Sidechains
 
 ## Lighting Network
