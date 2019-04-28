@@ -5,13 +5,17 @@ date: 2019-04-18
 
 # Hashing
 
-## Data Integrity
+Data integrity, content addressing as opposed to location addressing.
 
-# Merkle Trees
-
-## SHA
+## Hashing and SHA
 
 Implementation
+
+## IPLD
+
+Brief expostion... Hashes are useful for *linking data*.
+
+[IPLD](https://ipld.io/)
 
 <a href="ch3.html">Next chapter...</a>
 
