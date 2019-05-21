@@ -23,4 +23,6 @@ date: 2019-04-18
 
 [Casper Whitepaper](https://github.com/ethereum/research/blob/master/papers/casper-basics/casper_basics.pdf)
 
+## Filecoin
+
 <a href="ch6.html">Next chapter...</a>
