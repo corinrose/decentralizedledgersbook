@@ -25,6 +25,9 @@ Cryptography is not a new technology--the infamous Caesar cipher, while simple, 
 
 ## Distributed Computing
 
+CAP Theorem 1998, proven 2002
+Byzantine General (more details in consensus chapter)
+
 ## Smart Contracts
 
 ## Precursors
