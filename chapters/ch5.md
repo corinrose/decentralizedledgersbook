@@ -9,13 +9,15 @@ date: 2019-04-18
 
 [Reaching Agreement in the Presence of Faults](https://www.microsoft.com/en-us/research/publication/reaching-agreement-presence-faults/)
 
-## Proof of Work
+### Proof of Work
+
+### Federation
+
+### Voting
 
 [Hashcash](http://www.hashcash.org/)
 
 ## Proof of Stake
-
-## Casper
 
 [Introduction to Casper](https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/)
 
